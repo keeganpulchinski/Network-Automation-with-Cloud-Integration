@@ -35,9 +35,9 @@ This project showcases the implementation of network automation and cloud infras
 - Explore integrating CI/CD tools for automated testing and deployment of infrastructure changes.
 
 ### Updated Technologies Used:
-- Cisco 2911 Router and 3560 Switch
-- Ansible for Network Automation
-- Terraform for IaC
+- Cisco 2911 Router and Cisco 3560 Switch
+- Ansible
+- Terraform
 - AWS (EC2 instances, VPC, etc.)
 - Markdown for Documentation
 - GitHub for Version Control
