@@ -4,9 +4,10 @@
 
 This project showcases the implementation of network automation and cloud infrastructure management using Ansible, Terraform, and AWS. The primary focus is on orchestrating the provisioning and configuration of both on-premises and cloud resources.
 
-### Project Highlights:
+## Project Highlights:
 
 ### Terraform Setup:
+***
 
 - Utilize Terraform to define infrastructure for local labs and cloud environments.
 - Provision AWS resources (VPC, subnets, EC2 instances) and explore other cloud providers.
