@@ -7,7 +7,6 @@ This project showcases the implementation of network automation and cloud infras
 ## Project Highlights:
 
 ### Terraform Setup:
-***
 
 - Utilize Terraform to define infrastructure for local labs and cloud environments.
 - Provision AWS resources (VPC, subnets, EC2 instances) and explore other cloud providers.
@@ -34,7 +33,7 @@ This project showcases the implementation of network automation and cloud infras
 ### CI/CD Integration:
 
 - Explore integrating CI/CD tools for automated testing and deployment of infrastructure changes.
-
+***
 ### Updated Technologies Used:
 - Cisco 2911 Router and Cisco 3560 Switch
 - Ansible
