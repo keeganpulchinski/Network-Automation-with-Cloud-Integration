@@ -8,8 +8,8 @@ This project showcases the implementation of network automation and cloud infras
 
 ### Terraform Setup:
 
-- Utilize Terraform to define infrastructure for local labs and cloud environments.
-- Provision AWS resources (VPC, subnets, EC2 instances) and explore other cloud providers.
+- Utilize Terraform to define infrastructure for local lab and cloud environment.
+- Provision AWS resources (VPC, subnets, EC2 instances)
 
 ### Ansible Integration:
 
